@@ -1,5 +1,3 @@
-# diabetes-data-project
-
 # Diabetes Data Analytics Project
 This project aims to uncover the underlying patterns and trends that link demographic and nutrition factors to diabetes, and in turn identify key risk factors associated with diabetes using sophisticated statistical techniques and data visualization tools. With the rising prevalence of diabetes in the US, understanding these relationships can help healthcare providers develop more effective prevention and treatment strategies, ultimately improving the lives of millions of individuals affected by this disease. This project applies data analytics techniques to a complex public health problem and and hopes to contribute to our understanding of the factors that influence diabetes risk.
 
